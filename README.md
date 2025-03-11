@@ -6,7 +6,7 @@ In this PRIMM activity, you will learn how to use the BVSD graphics library to a
 
 ## Setup
 1. In the menu at the bottom left, go to **Java Projects** and **Import Project**.
-2. Upload an image to your `resources` folder.
+2. Create a folder called `resources`. Upload an image into that folder.
 3. In `ImageProcessor.java` change `Image img = new Image("resources/yourfile.png");` to reflect your filename. 
 
 ## Predict
